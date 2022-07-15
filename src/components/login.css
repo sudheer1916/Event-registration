@@ -1,0 +1,39 @@
+@media all and (min-width: 480px) {
+  .Login {
+    background: #bdc3c7;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a9adb0, #536271);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    position: relative;
+    top: 80px;
+    left: 540px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    padding: 60px 0;
+    border: 1px black solid;
+    width: 400px;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .form-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    font-size: 20px;
+  }
+
+  .btn {
+    margin: 50px;
+    margin-left: 120px;
+    justify-content: center;
+    align-items: center;
+  }
+}

@@ -1,0 +1,459 @@
+
+/* --------------------Intro-------------------- */
+
+.img1 {
+  position: absolute;
+  width: 398.54px;
+  height: 392.52px;
+  left: 100px;
+  top: 140px;
+  border-radius: 18px;
+}
+
+.title1 {
+  position: absolute;
+  left: 1200px;
+  top: 119px;
+  margin-top: -30px;
+  font-family: 'Gilroy-Bold';
+  font-weight: 700;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.txt {
+  position: absolute;
+  width: 740px;
+  height: 116px;
+  left: 530px;
+  top: 160px;
+  font-family: 'Play';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.date {
+  position: absolute;
+  width: 410px;
+  height: 26px;
+  left: 530px;
+  top: 290px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 149.8%;
+  color: #FFFFFF;
+  text-shadow: 0px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+.txt1 {
+  background-color: #9CCBFD;
+  padding-top: 5px;
+  color: white;
+  padding-left: 40px;
+  padding-right: 20px;
+  position: absolute;
+  border-radius: 19px;
+  width: 800px;
+  height: 50px;
+  left: 530px;
+  top: 360px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 149.8%;
+}
+
+.reg1 {
+  border-radius: 5px;
+  color: rgb(13, 13, 13);
+  padding-left: 40px;
+  padding-right: 200px;
+  position: absolute;
+  width: 177px;
+  height: 50px;
+  left: 530px;
+  top: 440px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 149.8%;
+  background: linear-gradient(180deg, #FFF65C 0%, rgba(255, 246, 92, 0.640625) 177.73%, rgba(255, 246, 92, 0) 252.78%);
+}
+
+.time {
+  position: absolute;
+  width: 1500px;
+  height: 105px;
+  left: 0px;
+  top: 560px;
+  background: rgba(0, 0, 0, 0.31);
+  color: white;
+}
+
+.dhm {
+  position: absolute;
+  top: 75px;
+  left: 720px;
+  background: none;
+}
+
+/* --------------------Events-------------------- */
+
+
+.eventsData {
+  position: relative;
+  width: 1200px;
+  height: 54px;
+  left: 111px;
+  margin-top: 100px;
+  flex-direction: column;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 150%;
+
+  display: flex;
+  align-items: center;
+
+  color: #272834;
+}
+
+.para {
+  position: absolute;
+  width: 600px;
+  height: 24px;
+  text-align: justify;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 149%;
+}
+
+.para1 {
+  margin-left: 10px;
+  margin-top: 15px;
+  width: 500px;
+  height: 24px;
+  text-align: justify;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 149%;
+}
+
+.clock {
+  margin-left: -360px;
+}
+
+.clockside {
+  margin-left: -330px;
+  margin-top: 16px;
+  height: 24px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 149%;
+}
+
+.reg2 {
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  padding-left: 10px;
+  position: absolute;
+  text-align: center;
+  width: 180px;
+  height: 40px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 149.8%;
+  background: linear-gradient(93.44deg, #444BAB -6.8%, #3CA5C2 186.94%);
+}
+
+.people {
+  margin-top: 30px;
+  margin-left: 200px;
+}
+
+.pep {
+  margin-left: 10px;
+  margin-top: 55px;
+  height: 24px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  text-align: justify;
+  font-size: 16px;
+  line-height: 149%;
+}
+
+.row {
+  position: inherit;
+  margin: 40px;
+  /* background-color:#9CCBFD; */
+}
+
+/* ------------------Stories---------------------- */
+
+.ost {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-flow: column;
+  text-align: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  top: 1300px;
+}
+
+.gp {
+  position: absolute;
+
+  width: 180px;
+  height: 180px;
+  left: 120px;
+  top: -245px;
+  border-radius: 94.5px;
+}
+
+.qp {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 360px;
+  top: -280px;
+}
+
+.fd {
+  position: absolute;
+  width: 550px;
+  height: 55px;
+  left: 450px;
+  top: -250px;
+  text-align: left;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 149.8%;
+  color: #000000;
+}
+
+.rmsb {
+  position: relative;
+  font-family: 'Gilroy-Bold';
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  width: 182px;
+  height: 40px;
+  font-weight: 600;
+  background: #444BAB;
+  border-radius: 6px;
+}
+
+
+
+
+
+
+
+/*----------------- Emailbox------------------------ */
+.ftd {
+  position: relative;
+  width: 509px;
+  height: 45px;
+  left: 510px;
+  top: 1350px;
+  /* top: 2350px; */
+  flex-direction: column;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  line-height: 149.8%;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.introEmailInput {
+  box-sizing: border-box;
+  position: absolute;
+  width: 609px;
+  height: 60px;
+  left: -55px;
+  background: #FAFAFB;
+  border: 1px solid #EBECFF;
+  border-radius: 6px;
+  margin: 20px;
+}
+
+.introEmailSubmitButton {
+  position: absolute;
+  width: 248px;
+  height: 49px;
+  left: 320px;
+  top: 110px;
+  background: linear-gradient(93.44deg, #444BAB -6.8%, #3CA5C2 186.94%);
+  border-radius: 6px;
+}
+
+.introEmailSubmitButton:hover {
+  background-color: RoyalBlue;
+}
+
+.introEmailInput::placeholder {
+  position: absolute;
+  font-size: 20px;
+  top: 15px;
+  left: 20px;
+}
+
+.sft {
+
+  margin-top: 5px;
+  color: white;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 149.8%;
+}
+
+
+
+/*---------------------- footer ------------------------------ */
+footer {
+  padding: 2rem 0;
+  position: relative;
+  flex-direction: column;
+
+  top: 1500px;
+  color: #505050;
+  height: 400px;
+  width: 100%;
+  text-align: left;
+}
+
+footer a {
+  height: 26px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #4F516B;
+  text-decoration: none;
+
+}
+
+.footerhr {
+  height: 20px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px #6167d7;
+}
+
+.fh {
+  width: 300px;
+  color: #4F516B;
+}
+
+.flogo {
+  position: inherit;
+  font-family: 'Gilroy-Bold';
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 40px;
+  color: #444BAB;
+}
+
+.chatBtn {
+  background-color: #3A3F8E;
+  border: none;
+  color: white;
+  position: relative;
+  top: 112px;
+  left: 100px;
+  width: 300px;
+  padding: 10px 14px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10px 10px 0px 0px;
+  font-family: 'Gilroy-Bold';
+}
+
+.chatBtn:hover {
+  background-color: RoyalBlue;
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+/* ----------------Eventintro--------------- */
+.eintro {
+  margin: 50px 100px 0px 100px;
+  position: absolute;
+  font-family: 'Poppins';
+  font-style: normal;
+}
+
+.eventintrodetails {
+  font-size: 20px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+}
+
+/* ---------------Aboutevent--------------------- */
+
+.abtevent {
+  /* background: rgba(68, 75, 171, 0.03);
+  background-color: #48a3bc; */
+  position: relative;
+  padding: 30px 100px 30px 100px;
+  top: 430px;
+}
+
+.abtcont {
+  position: relative;
+  top: 20px;
+}
+
+/* --------------eventblogs--------- */
+
+.eblog {
+  position: relative;
+  top: 1300px;
+  width: 100%;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  color: #000000;
+}
+
+.videobox {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+}
+/* ---------------------------------- */
